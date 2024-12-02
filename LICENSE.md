@@ -3,18 +3,18 @@ Version 1.0, Date: November 27, 2024
 
 Terms and Conditions  
 
-1. **Usage Rights**
+1. <u>**Usage Rights**</u>
    You are granted permission to use the software solely for private purposes. Any other usage, 
    including but not limited to modification, redistribution, copying, public or commercial use, 
    is strictly prohibited without explicit written consent.  
 
-2. **Copyright and Ownership**  
+2. <u>**Copyright and Ownership**</u>  
    This software, including all associated components and documentation, is the property of the 
    developers _**Paul Lange**_, _**Alexander Schwarz**_, and _**Lorenz Schadt**_. All rights not 
    explicitly granted remain reserved.  
 
-3. **Redistribution**  
+3. <u>**Redistribution**</u>  
    Redistribution of this software, in any form, is strictly prohibited.  
 
-4. **Disclaimer**  
+4. <u>**Disclaimer**</u>  
    This software is provided "as is", without any express or implied warranties.  
