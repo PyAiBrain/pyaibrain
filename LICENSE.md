@@ -10,7 +10,7 @@ Terms and Conditions
 
 2. **Copyright and Ownership**  
    This software, including all associated components and documentation, is the property of the 
-   developers **Paul Lange**, **Alexander Schwarz**, and **Lorenz Schadt**. All rights not 
+   developers _**Paul Lange**_, _**Alexander Schwarz**_, and _**Lorenz Schadt**_. All rights not 
    explicitly granted remain reserved.  
 
 3. **Redistribution**  
