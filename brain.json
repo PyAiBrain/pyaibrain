@@ -74,5 +74,6 @@
     "2*1": "2*1 = 2",
     "100/2": "50",
     "wie groß ist dein penis": "Ich bin eine KI, ich kann keine Penis haben.",
-    "Moin ": "Moin, wie geht es dir."
+    "Moin ": "Moin, wie geht es dir.",
+    "clear": "Du hast dem Befehl \"clear\" verwendet aber dieser ist noch nicht implementiert. Bitte wende dich an deinen Systemadministartor"
 }
