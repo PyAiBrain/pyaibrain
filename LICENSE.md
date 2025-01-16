@@ -10,7 +10,7 @@ Terms and Conditions
 
 2. **Copyright and Ownership**  
    This software, including all associated components and documentation, is the property of the 
-   developers `Paul Lange`, `Alexander Schwarz`, `Ludwig Pfanzelt`, and `Lorenz Schandt`. All rights not 
+   developers `Paul Lange`, `Alexander Schwarz`, `Ludwig Pfanzelt` All rights not 
    explicitly granted remain reserved.  
 
 3. **Redistribution**  
